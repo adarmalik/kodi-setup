@@ -1,6 +1,10 @@
 Internet Radio Setup
 --------------------
 
+![Front](pictures/radio_front.jpg)
+
+![Back](pictures/radio_back.jpg)
+
 You need the following hardware
  * Raspberry Pi 3b
  * 7 inch touch display
